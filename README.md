@@ -53,4 +53,11 @@ Requires Python ≥ 3.7
 Install required packages:
 
 ```bash
-pip install numpy pandas scikit-learn matplotlib
+pip install -r requirements.txt
+```
+
+In terminal, run the following command
+
+```bash
+python yeole_compression.py
+```
