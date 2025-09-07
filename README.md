@@ -1,6 +1,6 @@
 # The Yeole Compression Criterion
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15864512.svg)](https://doi.org/10.5281/zenodo.17069750)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17069750.svg)](https://doi.org/10.5281/zenodo.17069750)
 
 **A Storage-Efficient Bound for PCA-Based Dimensionality Reduction**  
 By [Om Yeole](https://orcid.org/0009-0001-9061-9725)  
@@ -19,10 +19,10 @@ This repo introduces the **Yeole Compression Criterion** — a simple, provable 
 
 ## 📄 Paper & Citation
 
-**DOI:** https://doi.org/10.5281/zenodo.15864512  
+**DOI:** https://doi.org/10.5281/zenodo.17069750  
 **Citation:**
 
-> Yeole, Om. *The Yeole Compression Criterion: A Practical Bound for PCA-Based Dimensionality Reduction*. Zenodo. July 11, 2025. https://doi.org/10.5281/zenodo.15864512
+> Yeole, Om. "The Yeole Compression Criterion: A Practical Bound for Pca-based Dimensionality Reduction". Zenodo, September 7, 2025. https://doi.org/10.5281/zenodo.17069750.
 
 ---
 
